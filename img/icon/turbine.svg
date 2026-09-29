@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m497.33,256.5c0,-132.94 -108.11,-240.83 -241.33,-240.83c-133.22,0 -241.33,107.89 -241.33,240.83c0,132.94 108.11,240.83 241.33,240.83c133.22,0 241.33,-107.89 241.33,-240.83zm0,0" fill="none" id="svg_1" stroke="rgb(0%,0%,0%)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="28"/>
+  <path d="m341.33,255c0,-47.15 -38.19,-85.33 -85.33,-85.33c-47.15,0 -85.33,38.19 -85.33,85.33c0,47.15 38.19,85.33 85.33,85.33c47.15,0 85.33,-38.19 85.33,-85.33zm0,0" fill="none" id="svg_2" stroke="rgb(0%,0%,0%)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="28" transform="matrix(1 0 0 1 0 0)"/>
+  <path d="m451.63,169.92l-201.66,0.99m-165.7,-42.63l97.92,170.39m49.92,170.39l98.71,-170.39" fill="none" id="svg_3" stroke="rgb(0%,0%,0%)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="28"/>
+ </g>
+</svg>

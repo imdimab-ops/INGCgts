@@ -1,0 +1,6 @@
+#pragma once
+
+#define PROJECT_NAME "INGCgts"
+#define PROJECT_VERSION "1.2"
+#define PROJECT_VERSION_BUILD "1.2.120"
+#define PROJECT_VERSION_FULL "INGCgts.1.2.120"
